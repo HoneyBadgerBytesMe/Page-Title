@@ -1,0 +1,44 @@
+body{
+    background-color:white;
+    
+     background-repeat:no-repeat;
+      background-size: 2300px;
+ border: 40px solid;
+  border: 2px solid;
+  color:black;
+  text-align:center;
+}
+.award{
+    color:red;
+    background-color:#000000;
+}
+p{
+    opacity:1;
+    
+}
+img{
+    padding:20px;
+    border: 20px dotted green;
+    width:700px;
+    width:40%;
+    font-size: 30px;
+    border-radius: 100px;
+    padding:10px;
+    border: 50px groove red;
+   }
+.nd{
+    color:green;
+}
+.live_background_preview_input_wrapper {
+  width: 100%;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  text-align: center;
+}
+.dubai{
+    color:green;
+}
+h2{
+    color: yellow;
+}
+    
